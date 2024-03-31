@@ -1,4 +1,4 @@
-# Iosevkaaile WebFont 29.0.4
+# Iosevkaaile WebFont 29.0.5
 
 ## How to use
 
